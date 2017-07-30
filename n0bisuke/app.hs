@@ -8,3 +8,6 @@ hoge 3 = 9
 hoge 10 = 30
 ...
 -}
+
+sumN :: Integer -> Integer
+sumN n = sum [1 .. n]
