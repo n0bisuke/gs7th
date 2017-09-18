@@ -12,3 +12,10 @@ https://github.com/n0bisuke/gs7th/issues/2
 * 質問はGitHubのProjectsで -> [質問事項](https://github.com/n0bisuke/gs7th/projects/2)
 * チャットに通知がいかないみたい（調査中）なのでチャットなどで教えてください
 * のびすけレスがなく緊急な場合は個別チャットで質問なげてください
+
+## URL
+
+* [ptatent talk](https://ai-patent.jp)
+* [metasnaps](https://metasnaps.com/)
+* [Anaba Works](https://anabaworks.jp)
+* [spity](http://www.sipty.jp/)
